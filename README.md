@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello There 💻
 
-<!--
-**CrisPetry/CrisPetry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "Aprenda uma coisa nova por dia e será premiado pela constância".
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Encontre me 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-guilherme-petry/)](https://www.linkedin.com/in/cristian-guilherme-petry/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xsandman_/)](https://www.instagram.com/xsandman_/) 
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=CrisPetry&show_icons=true" alt="CrisPetry"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
+</p>
