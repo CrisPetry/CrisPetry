@@ -3,7 +3,7 @@
 
 Encontre me 👇🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-guilherme-petry/)](https://www.linkedin.com/in/cristian-guilherme-petry/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_crispetry/)](https://www.instagram.com/_crispetry/)) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-guilherme-petry/)](https://www.linkedin.com/in/cristian-guilherme-petry/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_crispetry/)](https://www.instagram.com/_crispetry/)
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=CrisPetry&show_icons=true" alt="CrisPetry"/><br>
